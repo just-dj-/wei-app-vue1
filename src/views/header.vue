@@ -1,12 +1,12 @@
 <template>
     <div style="height: 100%; width:100%; color: white; background-color: red;">
-        <div style="float: left;  width: 240px; line-height: 60px">
+        <div style="margin-left: 20px; float: left;  width: 240px; line-height: 60px">
                 <span>
                     <i class="el-icon-edit"></i>
                 </span>
             <span>
-                    微信版党建测试企业
-                </span>
+                微信版党建测试企业
+            </span>
         </div>
         <!--<div class="line" style="border-color: red; border-width: 12px"></div>-->
         <div style="margin-left: 240px">

@@ -1,11 +1,11 @@
 <template>
     <div style="width: 250px; background-color: #e9e5e5; height: 100%;">
-        <div style="height: 40px">
+        <div style="height: 40px; text-align: center">
             <el-input
                     placeholder="导航菜单"
                     prefix-icon="el-icon-search"
                     v-model="input21"
-                    style=" height: 80%; width: 80%; line-height: 30px">
+                    style=" height: 80%; width: 80%; line-height: 30px; ">
             </el-input>
         </div>
         <div style="height: 50px; text-align: left; line-height: 50px;

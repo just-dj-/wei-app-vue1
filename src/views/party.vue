@@ -3,7 +3,7 @@
         <div>
             <v-header></v-header>
         </div>
-        <div style="display: inline-flex; width: 100%; height: 100%;">
+        <div style="display: inline-flex; width: 100%; height: 100%; margin-top: 10px">
             <v-leftMenu></v-leftMenu>
             <v-main></v-main>
         </div>

@@ -14,7 +14,7 @@
                         {{user.num}} {{user.unit}}
                     </div>
                 </div>
-                <div style="height: 10%; background-color: #d3d3d34d">
+                <div style="height: 40px; line-height: 40px; text-align: center; background-color: #d3d3d34d">
                     本月新增：{{user.increment}} {{user.unit}}
                 </div>
             </div>
