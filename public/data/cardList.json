@@ -1,0 +1,44 @@
+[
+  {
+    "title": "党员人数",
+    "icon": "head.png",
+    "num": 40471,
+    "unit": "人",
+    "increment": 2
+  },
+  {
+    "title": "党支部总数",
+    "icon": "head.png",
+    "num": 61,
+    "unit": "个",
+    "increment": 2
+  },
+  {
+    "title": "在线学习",
+    "icon": "head.png",
+    "num": 12,
+    "unit": "项",
+    "increment": 0
+  },
+  {
+    "title": "在线考试新",
+    "icon": "head.png",
+    "num": 11,
+    "unit": "场",
+    "increment": 2
+  },
+  {
+    "title": "新闻资讯",
+    "icon": "head.png",
+    "num": 1080,
+    "unit": "条",
+    "increment": 2
+  },
+  {
+    "title": "组织动态",
+    "icon": "head.png",
+    "num": 9,
+    "unit": "条",
+    "increment": 1
+  }
+]
